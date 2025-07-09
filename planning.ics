@@ -1,0 +1,1604 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250513T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250513T060000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:51e06cac-3a63-4a13-bc74-af5b55c2f43c@51e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241017T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241017T070000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:a6b24ec0-1a66-4d51-92d8-22b5f930753a@a6b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250120T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250120T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:8da0742f-f8ab-4237-9df3-1718b2dbd218@8da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250320T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250320T080000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3\,5h
+UID:983edcb8-f0f2-4d47-87f7-91ae3f41aa99@983e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MERIENNE Frederic\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241211T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241211T070000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 4h
+UID:caa3cb06-c5c1-4133-8a78-d8aba2ce5606@caa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20250213T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20250213T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:d941bc72-811d-40d4-bb6e-14b0406eddd7@d941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240912T073000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240912T060000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 1\,5h
+UID:fa26d4d4-8971-4a03-a85d-e4002a802881@fa26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20250204T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B106
+DTSTART:20250204T070000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:005f134a-54cd-4487-aff9-d0e2d8b598d9@005f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250326T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250326T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:114cf6f2-e3f7-456c-85bc-c6da61ad659b@114c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250331T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250331T120000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:e1fb20e2-cb8d-4fc1-a409-180c9a059473@e1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme MEHAH Melissa\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241216T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle E202
+DTSTART:20241216T073000Z
+SUMMARY:USSI5U - Sécurité - Confidentialité - Données publiques et privées - Cours 3\,5h
+UID:78c83990-2e30-47d0-b1d1-6256252a1b0b@78c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250509T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle B102
+DTSTART:20250509T070000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3\,5h
+UID:69427795-a4de-4f68-98d7-30334866cf5a@6942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250214T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250214T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:1a632934-9838-479f-a508-fc57737f9b07@1a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250328T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250328T133000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3h
+UID:43fd208c-0ad6-4378-9939-39c48f49ad8e@43fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LANDWEHRLEN Thomas\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250630T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle B102
+DTSTART:20250630T120000Z
+SUMMARY:USSI5Y - Communication - Cours 3h
+UID:717e2777-ea1a-4cb0-a022-59df2ea6cb88@717e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240918T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240918T120000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:65ffdc02-48fe-4684-a9d1-0313fabce056@65ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250507T073000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250507T060000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 1\,5h
+UID:3dd8a196-12a0-4352-850b-fd0ce6a219d8@3dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250310T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20250310T070000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:329e4c1c-448c-4c72-af93-9ca1484a64b9@329e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LANDWEHRLEN Thomas\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250521T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250521T120000Z
+SUMMARY:USSI5Y - Communication - Cours 3h
+UID:e288885b-7f6d-47dc-986c-0adbdc4220a9@e288.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250317T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250317T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:7517c2be-ccc8-49d4-b49f-ca685dec6786@7517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250627T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250627T070000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:92ae38cb-a30a-4762-86c7-2a5d8f46b2f1@92ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250522T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250522T060000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:ef706939-c52f-420d-a3d0-3ef77badb3b8@ef70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250519T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250519T133000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 1\,5h
+UID:f51b37b5-fa3f-4328-b331-5b268a3eede8@f51b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241105T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241105T070000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:f67bc65e-4866-4186-bad8-b438728f2767@f67b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme MEHAH Melissa\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241216T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle E202
+DTSTART:20241216T123000Z
+SUMMARY:USSI5U - Sécurité - Confidentialité - Données publiques et privées - Cours 3h
+UID:800e210a-a058-448b-9a74-5ef3ca271d26@800e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M PROST Julien\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250404T100000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20250404T060000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:c19583cc-e734-4772-b1d2-95eb3c9776ac@c195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241213T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241213T070000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:744322a3-0aa8-4e2d-940e-9be17d30c07e@7443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GALLAND Stephane\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250625T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250625T070000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 3h
+UID:18520b5a-4e88-48f4-9a10-612dde2fb1a1@1852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250124T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250124T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:d2320101-0a9a-4abf-a17e-ac995dee247d@d232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250512T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250512T070000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3h
+UID:d91acb8f-655c-45e0-aede-f7001a2d42ca@d91a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241212T140000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241212T123000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 1\,5h
+UID:9cf11cae-fb70-4982-ad80-74ef8f8bf7d2@9cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241203T110000Z
+LOCATION:Distanciel\, Salle virtuelle
+DTSTART:20241203T070000Z
+SUMMARY:USSI5U - Gestion de projet 1 - Cours 4h
+UID:d8cb2a6d-e6e7-42f3-a706-7d32a2953a7f@d8cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241218T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Autre
+DTSTART:20241218T090000Z
+SUMMARY:ACC001 - Cours 2h
+UID:e1a85c95-6c14-421e-893d-7db1f16fcc49@e1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241023T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241023T060000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:9fca6d38-501e-4349-8c67-e3682c5df808@9fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250128T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250128T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:a73987d6-e80d-41d9-aa8f-852f707a6b0d@a739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250122T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250122T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:89626007-d806-4fb8-a3b5-9cba070fdd35@8962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241219T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241219T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:9fb4e5e2-37c7-49d4-a5e4-6479ca23fd9b@9fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M CHARDONNET Jean-Rémy\, M MERIENNE Frederic\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241217T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241217T070000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 4h
+UID:e95209f3-034d-4c91-8ca8-9dc07f49c1ff@e952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241106T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241106T070000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:cf778731-f6c5-42ff-95c9-096de81cc99f@cf77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250205T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250205T130000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:fd560f27-cc7b-4828-93c0-72edccbbdf83@fd56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250327T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250327T123000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:cfc069a4-1a19-418a-884e-1efe8d593649@cfc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GAILLARD Régis\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250318T143000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250318T123000Z
+SUMMARY:USSI5Y - Communication - Cours 2h
+UID:6f6cb61e-8db0-4637-a9bb-fe5515bab36e@6f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MERIENNE Frederic\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240919T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240919T060000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 4h
+UID:7d32136b-a940-40f4-bd83-7b87006619ac@7d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241202T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241202T123000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:1d75b63a-e0ec-4d81-9525-b9fbc57f010d@1d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250124T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250124T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:4718a93b-53ae-4ed0-8263-d4d72aa76de5@4718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241203T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241203T120000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:e6935b86-d44e-4f3c-a45c-4d4f895a9c04@e693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241204T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241204T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:afc8eef2-33dc-44b5-809a-dceff398e26b@afc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20250207T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20250207T070000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:109a02b5-fd52-4310-a47d-166c55e71cc4@109a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250310T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250310T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:35c0395a-c6f0-48fc-953b-ab9db9bb4041@35c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250203T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250203T080000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:fad8e528-86c1-42ff-8e69-f4e898a6536a@fad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250513T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250513T113000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:82058fe6-c4ff-4d17-a50b-46d52ece34ec@8205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GALLAND Stephane\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250625T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250625T110000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:276dd8f3-40d0-4465-bebb-4bfec036cd92@276d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250313T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250313T123000Z
+SUMMARY:USSI5U - Gestion de projet 1 - Cours 4h
+UID:af56a08f-8499-4626-9fd8-069d0a5ecd95@af56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250630T100000Z
+LOCATION:Distanciel\, Salle virtuelle
+DTSTART:20250630T060000Z
+SUMMARY:ACC001 - Cours 4h
+UID:f6d9aaf3-5ca1-4330-a16f-cd1c844dcde8@f6d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250128T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250128T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:4044421b-63d3-40c6-935d-37432eca1a6c@4044.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241217T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241217T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:04e8c3a6-f573-4de6-a646-9fd9db3dac46@04e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241017T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241017T113000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:24b9bb36-f5d9-43c0-9cac-3b53133197a5@24b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241016T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20241016T060000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:879adf97-685d-4daa-8cca-18b4630d221c@879a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241107T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241107T123000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:5a0bc733-ad19-4e34-8fe3-418cb0d13288@5a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250127T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250127T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:2b0760a0-6da8-47ed-99e6-b32adb67ad83@2b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250321T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250321T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:bd9c0bd3-bac8-465c-99c6-ee961ae46195@bd9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GAILLARD Régis\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250318T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250318T080000Z
+SUMMARY:USSI5Y - Communication - Cours 3h
+UID:5c017a9c-fb25-44cd-922a-69800ecaba71@5c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241104T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C205
+DTSTART:20241104T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:626c8b68-298b-4b5c-b685-70fd31a4330a@626c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241220T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241220T080000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3h
+UID:474ba1eb-e3ac-4320-a3c4-7d0569983703@474b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: UASI1Y : Séquence professionnelle S2 (15 ECTS)
+DTEND:20250702T073000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250702T070000Z
+SUMMARY:UASI1Y - Soutenance 0\,5h
+UID:c2a69c4e-4702-4f66-9efc-a82bca340aa6@c2a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250131T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250131T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:b955b406-162e-4e96-b88d-5a8826f77dc0@b955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250402T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250402T060000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:c57e139d-e855-4d76-a1c9-ddd79dc94d5b@c57e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250203T173000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20250203T160000Z
+SUMMARY:ACC001 - Cours 1\,5h
+UID:daf3ca75-8286-4a63-b231-490051f1a79d@daf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241202T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241202T080000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:e69882ee-3aa0-44b3-af5d-941751e6dc50@e698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MAGNIEN David\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250321T173000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250321T133000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:d87e3599-a1a1-469e-b5b3-52c2990165ea@d87e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250623T080000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250623T060000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2h
+UID:33f694c2-715d-4689-9514-317e98b06d91@33f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20240920T100000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 204
+DTSTART:20240920T060000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:37faaf93-a678-4f7a-87ee-e48cc57271c8@37fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240911T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240911T120000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:0b921828-8ff1-4dd0-9841-bcc1cc8089f0@0b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241108T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B106
+DTSTART:20241108T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:73566b4f-de72-4f51-a7d9-73abbaa9db97@7356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LANDWEHRLEN Thomas\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250206T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250206T080000Z
+SUMMARY:USSI5Y - Communication - Cours 2h
+UID:e425de1e-b94c-42f0-94bc-9613bbacf85d@e425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250129T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250129T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:cba6e111-1641-4a7b-8b32-5a993968f8ec@cba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MAGNIEN David\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250212T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250212T130000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:04ec116a-dc41-4691-b726-1be30624dfca@04ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241212T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241212T080000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:38cef031-2fb3-492a-a536-c13c5ba36d76@38ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250313T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250313T080000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3\,5h
+UID:0706a0e7-9dcd-46b4-81cf-8bef3023cdcc@0706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250403T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250403T113000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:7f7d15eb-460d-4fd0-9447-db68ac09eea8@7f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\, Mme LABROSSE Isabelle\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20240909T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240909T070000Z
+SUMMARY:ACC001 - Cours 3h
+UID:7a78f6a0-0aab-44d4-84cd-011809d4737d@7a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250626T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250626T080000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2\,5h
+UID:f45b9e3d-7f7a-46d8-82b7-abcad5a0c970@f45b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250210T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250210T080000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:ac8dcf09-f757-494d-a34f-55843ae4b0dc@ac8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241220T150000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241220T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3h
+UID:8d2e5248-8954-41cf-ba4d-599257846f50@8d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250620T100000Z
+LOCATION:Extérieur\, Intervention ext
+DTSTART:20250620T060000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 4h
+UID:6e744e18-8b0b-4a46-bb37-b183bb2d075d@6e74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250120T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250120T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:e487fb42-0f1e-4a40-9d7b-82839b44e7b0@e487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250131T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250131T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:77315d8f-7e7c-46c7-9d5f-ca30e8490d39@7731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250520T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250520T060000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:b7050bca-95e2-4dfd-9aa2-c7aefe25b487@b705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250617T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250617T060000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:021dd598-3349-4574-b6df-b4872d86d669@021d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250213T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250213T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:1b44d7e4-e21c-4baf-adc4-769c91d12064@1b44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250314T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20250314T070000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:2d5e950e-78a9-402e-a3a5-c85bb84a14d9@2d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241206T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C205
+DTSTART:20241206T120000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:39fee265-c28b-41be-88d5-6aa39313d498@39fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241210T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241210T073000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:250aaff7-c07e-4dd5-8aa1-15c85362681d@250a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241015T100000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241015T063000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:ed39e772-8e93-4d19-ae41-62741ff22ea9@ed39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240919T133000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240919T113000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 2h
+UID:781b9f72-1e1d-49de-aba4-d52db034d95e@781b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MAGNIEN David\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250312T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250312T130000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:5be2297f-3246-4afc-bcfc-4ba799073fb1@5be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241205T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241205T080000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:b6fb8197-d204-4ea5-871f-83cf74a931c2@b6fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250311T190000Z
+LOCATION:I.U.T. Chalon 2 rue Thomas Dumorey  71100 CHALON SUR SAONE\, Amphi bloc central
+DTSTART:20250311T170000Z
+SUMMARY:ACC001 - Cours 2h
+UID:a0d5f009-6028-433a-93f8-5c73d5b22fcd@a0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250324T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250324T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:bc6af521-8e52-410c-bb6e-d6972007c21d@bc6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250211T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250211T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:e1abd81e-d489-4803-a94f-a1a51d76bb4b@e1ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20250211T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20250211T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:c16c7bb7-b0a2-478e-97ef-a715fed08887@c16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241028T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241028T120000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:788d7b47-38d3-45f2-9c56-a0114add4a87@788d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241210T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241210T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:3f69f85a-fe99-4e8f-b9ac-77144c5992b0@3f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250523T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250523T070000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:879cf9ec-351f-497b-b14c-efebb7947e0d@879c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241204T093000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241204T070000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 2\,5h
+UID:0f16fdef-0153-4abe-af3f-5549f2467621@0f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250325T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250325T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:7af57150-8431-4953-8ddb-a0e35e5f1dc9@7af5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241015T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241015T150000Z
+SUMMARY:ACC001 - Cours 2h
+UID:7ce5536c-d63b-4d63-8189-42c3ff724323@7ce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250319T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250319T130000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:b49a7624-6d24-4bd6-b5b1-891fed6873fb@b49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250312T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250312T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:b1b903a8-1503-4f58-bc90-135ac48398d7@b1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M CHARDONNET Jean-Rémy\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240913T140000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240913T120000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 2h
+UID:12971a0e-f824-4c58-8dca-bfc6b1d4ac9e@1297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LANDWEHRLEN Thomas\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250515T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250515T060000Z
+SUMMARY:USSI5Y - Communication - Cours 4h
+UID:7dafa65d-d842-48bc-90ea-1558ad302dc1@7daf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250616T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250616T070000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:dacff79e-879a-47f9-8e1d-18c2655f6c3e@dacf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250121T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250121T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:e784bbc6-4c55-44ce-907a-ced647682f59@e784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241209T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C205
+DTSTART:20241209T120000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:f589340e-eada-4553-9244-4c21fec2cc87@f589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241014T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241014T070000Z
+SUMMARY:ACC001 - Cours 3h
+UID:8fca406a-64e4-43ba-95a2-b9184bd2664e@8fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MAGNIEN David\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250207T173000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250207T133000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:5a22d902-8ee6-4072-a3f3-95f850e01e74@5a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240918T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240918T060000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:95eea9c1-b698-4cb3-be72-38b167323601@95ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20250204T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B106
+DTSTART:20250204T120000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:9435f4e8-b270-44b0-9ab8-050477ad2e1e@9435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250123T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250123T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:5af36d90-b110-462a-9f45-ae07948bed15@5af3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GECHTER Franck\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250509T160000Z
+LOCATION:Distanciel\, Salle virtuelle
+DTSTART:20250509T120000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:b8168c72-15e3-4289-bfe6-4900aff3a633@b816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250212T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250212T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:235e86ce-83a9-44d4-b5e6-8f9bc0e00ca0@235e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241106T183000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241106T170000Z
+SUMMARY:ACC001 - Cours 1\,5h
+UID:1847d6f3-6da0-4f73-ba4c-bb5d86150e2b@1847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250617T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250617T120000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:23434988-a5b6-43a7-99a9-f8885ebc92c3@2343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20240910T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240910T113000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:800aa9e6-89d6-403d-9dc9-c96bc27a8969@800a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250703T090000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250703T060000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 3h
+UID:0d590c0b-e713-4841-af54-560b2539ea8f@0d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250129T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250129T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:69b623a7-186e-4e31-8688-abd942791033@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250623T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250623T113000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:4f880e39-f66d-4c87-adde-400fd6a9dfb3@4f88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme MEHAH Melissa\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250205T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle E202
+DTSTART:20250205T073000Z
+SUMMARY:USSI5U - Sécurité - Confidentialité - Données publiques et privées - Cours 3\,5h
+UID:50c112f4-8ee4-4649-811f-b55d0fe2480d@50c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250130T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250130T080000Z
+SUMMARY:ACC001 - Cours 3h
+UID:d5e4823e-4e74-4f01-8f18-6ad5f84c9d17@d5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250403T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250403T070000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3\,5h
+UID:fec2c5cc-6589-4c26-bcbe-f765ca1700be@fec2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250702T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250702T130000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2h
+UID:3351f70a-1921-4515-82de-b64c4bc5213d@3351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250320T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250320T123000Z
+SUMMARY:USSI5U - Gestion de projet 1 - Cours 4h
+UID:e92a2826-6a5d-4760-ad89-1000a4c90655@e92a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241106T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241106T130000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:fb5b672f-2267-487e-abde-2a4fdf9fed59@fb5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250514T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250514T070000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:357044b5-a8dc-4a93-9d22-e1355a49ab6b@3570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250702T130000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250702T120000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 1h
+UID:e6dfc237-60ff-4bcc-99b8-592991af1977@e6df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241028T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241028T070000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:da63febf-baac-465d-a791-ad0acef6f45d@da63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241025T150000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241025T110000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:f471663c-0ec3-49f3-a433-706690fa37d6@f471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250616T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250616T130000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2h
+UID:066dde06-85a9-4e5f-b2e4-817b7735c5fc@066d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241104T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241104T070000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:6dc95eb5-a8af-44d0-8080-a6876b983b97@6dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme LABROSSE Isabelle\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20240909T140000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 204
+DTSTART:20240909T120000Z
+SUMMARY:ACC001 - Cours 2h
+UID:2327c4e1-ccf4-4339-bf69-3cb7d6fed391@2327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250325T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250325T070000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:95d20613-b70f-434a-8e15-375558f91572@95d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LANDWEHRLEN Thomas\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250624T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250624T120000Z
+SUMMARY:USSI5Y - Communication - Cours 3h
+UID:9974ea96-49a2-41ea-81d1-12441bb67681@9974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250627T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250627T133000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 2\,5h
+UID:95a3c802-e55f-4dfa-ad54-b5cedc780ada@95a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M CHARDONNET Jean-Rémy\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240912T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240912T120000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 3h
+UID:9ec9f1b3-2c7e-47c8-acca-a712af697a8c@9ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20241218T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241218T130000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:68af5fa0-26f6-4912-a08c-11cfb0ac2279@68af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250121T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250121T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:e1c1fbcc-342d-4aaf-8a20-468e31cabb4e@e1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241024T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241024T060000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:b207c8ea-9bfc-431c-9353-64a67bdd7157@b207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250522T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250522T120000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:5f56d999-b62d-41f5-9518-1fddb097e3e2@5f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250701T140000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle B102
+DTSTART:20250701T120000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2h
+UID:6cb69915-d003-44f5-8b36-c1a311c5a92c@6cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250210T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250210T123000Z
+SUMMARY:USSI5U - Gestion de projet 1 - Cours 4h
+UID:4a5bb6e8-ee95-4c3b-9597-5e740cab8a42@4a5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241211T183000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241211T170000Z
+SUMMARY:ACC001 - Cours 1\,5h
+UID:cf7a9772-b20a-4dc5-9d1a-a576a070edda@cf7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20240910T103000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240910T070000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:00d85bbf-72b6-41a3-a9ae-5c0e608d761d@00d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20240916T150000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 204
+DTSTART:20240916T110000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:8e40461e-a471-4260-99c4-142c36a13972@8e40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241025T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241025T060000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:51971e06-b702-4f05-8f0e-bed3ee4c88a8@5197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250122T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250122T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:a3732881-86ae-458c-9d73-9feff59ecda5@a373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M PROST Julien\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250404T140000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20250404T110000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 3h
+UID:3b34be31-026a-434e-8bad-a666d79dc5ef@3b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241107T113000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241107T080000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:e9f6bb75-e21e-401c-87d8-5eebbeacd03e@e9f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241023T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241023T120000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:a92ffba5-a9c0-479e-8cdb-33293de3468d@a92f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250506T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250506T113000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:6a86a729-3a1d-4774-9733-2d201052bb6b@6a86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241022T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241022T120000Z
+SUMMARY:USSI5T - Statistique descriptive - Cours 4h
+UID:41633a4a-13a6-452c-a672-72c12ba327fc@4163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme MEHAH Melissa\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250206T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle E202
+DTSTART:20250206T120000Z
+SUMMARY:USSI5U - Sécurité - Confidentialité - Données publiques et privées - Cours 3\,5h
+UID:c27c8f36-3101-4164-bdea-fa9c3fc2c4a5@c27c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241206T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241206T080000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 3h
+UID:6f127b60-d993-45fa-ae80-a93489985b56@6f12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MAGNIEN David\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250314T173000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250314T133000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:71f1719d-739c-422b-bb71-e3eca8459078@71f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250127T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250127T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:6a285ce9-74d9-4fd4-a02a-91bed63959cf@6a28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250624T090000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250624T070000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 2h
+UID:a49bc5f5-78b4-4926-8611-f163af7d02eb@a49b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250203T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250203T123000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:c8deca8e-f249-4a31-9909-45fb7d99e389@c8de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250515T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250515T120000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:d0cbddde-ae17-466f-bdfc-ea8033bc7aaa@d0cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250516T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250516T113000Z
+SUMMARY:USSI5Y - Anglais 2 - Cours 3\,5h
+UID:db381a90-7574-464e-9b3f-3ec1774bc556@db38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GALLAND Stephane\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250618T150000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250618T110000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:2c37319f-4365-4ab2-9ea2-776d37cbfd02@2c37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241024T150000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241024T110000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:9f52aa42-e187-480b-8b59-930528c31b1a@9f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250130T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250130T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:2fb12264-bed7-4995-b496-7c7a5d7a743c@2fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241219T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20241219T070000Z
+SUMMARY:USSI5S - Programmation algorithmique - Cours 4h
+UID:dd9cfe4b-b440-40f7-aae5-a0a495d8051e@dd9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241022T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241022T060000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:6c48ee04-97e1-4943-b23c-d992a5684456@6c48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250401T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250401T060000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:2b5c5ab6-10b7-4d0f-af73-41125a3cfc2a@2b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20241211T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241211T130000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:499a53c5-9806-4fd9-adff-1d7b18359d5e@499a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241023T170000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241023T160000Z
+SUMMARY:ACC001 - Cours 1h
+UID:05d4a75e-98e8-4fcf-a676-798ce6902896@05d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250505T100000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20250505T060000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 4h
+UID:c0ba24e0-7508-41a2-995c-3e2671778c7f@c0ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250401T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A103
+DTSTART:20250401T113000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:dc73dce4-6f8e-4650-9faf-ec3083a2a887@dc73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme STORIE Elaine\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20241205T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241205T123000Z
+SUMMARY:USSI5U - Anglais 1 - Cours 3\,5h
+UID:a60b51fd-4802-4fed-88e9-40eeecda933d@a60b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241213T150000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241213T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3h
+UID:afaee26f-11be-43d2-93c8-d97f3dea216b@afae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M JOBLOT Laurent\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250620T153000Z
+LOCATION:Extérieur\, Intervention ext
+DTSTART:20250620T123000Z
+SUMMARY:USSI5X - Echantillonnage plan d'expérience - Cours 3h
+UID:c98cf920-2217-454c-89f3-dfe54d84f49b@c98c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241021T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20241021T060000Z
+SUMMARY:USSI5T - Mathématiques - algèbre linéaire - calcul matriciel - Cours 4h
+UID:45bbec91-22f8-4dac-aa2e-f01988d2545d@45bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GALLAND Stephane\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250618T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250618T070000Z
+SUMMARY:USSI5V - Bases de l'intelligence artificielle - Cours 3h
+UID:b221909a-9c66-42c0-80b0-25fa0ac5ce73@b221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250630T140000Z
+LOCATION:Distanciel\, Salle virtuelle
+DTSTART:20250630T120000Z
+SUMMARY:ACC001 - Cours 2h
+UID:1352c49c-439f-45bb-b717-9189a2e47a7f@1352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241014T130000Z
+LOCATION:EGC Centre Est 1 avenue de Verdun  71100 CHALON SUR SAONE\, Auditorium
+DTSTART:20241014T113000Z
+SUMMARY:ACC001 - Cours 1\,5h
+UID:13c45a9c-4642-4401-8d14-4ed7f9b62a45@13c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20250214T153000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle 205
+DTSTART:20250214T120000Z
+SUMMARY:USSI5T - Sciences de l'Ingénieur - Electronique des objets - Cours 3\,5h
+UID:277beeae-866f-4abc-86e1-c05f5838dd63@277b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONIN Gérald\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250506T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250506T060000Z
+SUMMARY:USSI5W - Modélisation linéaire - Cours 4h
+UID:c98d5470-c544-4a20-8f31-557e47f705f5@c98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241108T110000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241108T080000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 3h
+UID:93be69da-91be-4abc-a62c-1e278d667f63@93be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5U : Humanités et sciences sociales - 1 CT (4 ECTS)
+DTEND:20250311T163000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250311T123000Z
+SUMMARY:USSI5U - Gestion de projet 1 - Cours 4h
+UID:f1b71ca0-120a-4ada-bfac-339ee0f94ca6@f1b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250512T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250512T130000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:7eb06b11-acf4-49d8-8ad1-a14c7c73430a@7eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M THÉRET Guillaume\nDescription: USSI5W : Mathématiques - 1 CT (4 ECTS)
+DTEND:20250630T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250630T060000Z
+SUMMARY:USSI5W - Mathématiques 2 - Cours 4h
+UID:185fd582-23a0-4ecc-8d50-78da67cd74ed@185f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: Mme LABROSSE Isabelle\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241022T180000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Espace de conf
+DTSTART:20241022T160000Z
+SUMMARY:ACC001 - Cours 2h
+UID:6c5d76a2-3c83-4711-ae77-c372ea92e7ae@6c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GLOWACKI Laurent\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20241029T100000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle B 105
+DTSTART:20241029T070000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 3h
+UID:757fa6fd-4bb2-4aa7-9699-47ba8e9f67fc@757f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M MERIENNE Frederic\nDescription: USSI5T : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 1 CT (7 ECTS)
+DTEND:20240911T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20240911T060000Z
+SUMMARY:USSI5T - Réalité mixte pour l'industrie 4.0 - Cours 4h
+UID:5dce4381-f458-4be6-a120-8c2b54a5bd0e@5dce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M LAFORET Pierre\nDescription: USSI5Y : Humanités et sciences sociales - 2 CT (3 ECTS)
+DTEND:20250619T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250619T113000Z
+SUMMARY:USSI5Y - Gestion de projet 2 - Cours 4h
+UID:49245f4c-6e62-4cc5-9150-14e4dbdc5dd0@4924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20241014T153000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Autre
+DTSTART:20241014T130000Z
+SUMMARY:ACC001 - Cours 2\,5h
+UID:890e12ff-1c6e-49d2-970b-2eb5d1e4596a@890e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: USSI5X : Sciences ingénieur : notions fondamentales et outils pour Industrie 4.0 - 2 CT (3 ECTS)
+DTEND:20250619T100000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250619T070000Z
+SUMMARY:USSI5X - Recherche opérationnelle - Cours 3h
+UID:f23aa43b-0273-4df7-a20d-9310157e0ba5@f23a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M BONNEVILLE François\nDescription: USSI5V : Spécialité Informatique - 2 CT (5 ECTS)
+DTEND:20250328T110000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250328T070000Z
+SUMMARY:USSI5V - Administration de bases de données - Cours 4h
+UID:9a762c69-39d8-4016-9310-5ea941eeb1e2@9a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GUILLET Christophe\nDescription: ACC001 : Unité d'accompagnement
+DTEND:20250123T160000Z
+LOCATION:L'Usinerie 34 quai saint Cosme  71100 CHALON SUR SAONE\, Salle A104
+DTSTART:20250123T120000Z
+SUMMARY:ACC001 - Cours 4h
+UID:7904ba06-12a9-4ffc-8c98-6d2009731d74@7904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor: M GORET Pierre-Henry\nDescription: USSI5S : Spécialité Informatique 1 CT (4 ECTS)
+DTEND:20241105T160000Z
+LOCATION:pôle formation UIMM Grande rue St Cosme  71100 CHALON SUR SAONE\, Salle C201
+DTSTART:20241105T120000Z
+SUMMARY:USSI5S - Structures de données et algorithmes - Cours 4h
+UID:9502a714-f353-4c22-9faf-398f73b143d3@9502.org
+END:VEVENT
+END:VCALENDAR
