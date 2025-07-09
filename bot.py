@@ -11,8 +11,26 @@ import os
 from dotenv import load_dotenv
 import json
 import ics_generator
+from flask import Flask, send_file
+from threading import Thread
 
 load_dotenv()
+
+# --- Flask Web Server Setup ---
+app = Flask(__name__)
+
+@app.route('/planning.ics')
+def serve_ics():
+    try:
+        return send_file('planning.ics', mimetype='text/calendar')
+    except FileNotFoundError:
+        return "ICS file not found. It might not have been generated yet.", 404
+
+def run_flask_app():
+    # Render.com sets the PORT environment variable
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
+
 
 # --- Discord Bot Setup ---
 
@@ -312,6 +330,12 @@ async def generate_ics(interaction: discord.Interaction):
 # --- Run the bot ---
 
 if __name__ == "__main__":
+    # Start the Flask app in a separate thread
+    flask_thread = Thread(target=run_flask_app)
+    flask_thread.daemon = True  # Allow the main program to exit even if the thread is still running
+    flask_thread.start()
+    print("Flask app started in a separate thread.")
+
     # Ensure the database is initialized (e.g., homework table exists)
     # This call needs to be updated to include professor_name, or removed if not strictly necessary for table creation
     # For now, I'll update it with a dummy value.
