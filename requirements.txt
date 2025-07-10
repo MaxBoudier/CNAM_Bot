@@ -3,5 +3,6 @@ selenium
 beautifulsoup4
 webdriver-manager
 python-dotenv
-ics
-Flask
+gspread
+google-auth-oauthlib
+pandas
